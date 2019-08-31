@@ -1,1 +1,0 @@
-Paleographic observations should be added here in .cex files.
